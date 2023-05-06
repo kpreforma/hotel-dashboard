@@ -5,3 +5,5 @@ Note: This is a guided project based on the [Data Analyst Portfolio Project #1 V
 
 The sample dashboard is shown below:
 ![Dashboard1](display1.png)
+
+The data used in the project was from Kaggle: [Hotel Revenue Dataset](https://absentdata.com/wp-content/uploads/2021/05/hotel_revenue_historical_full-2.xlsx).
