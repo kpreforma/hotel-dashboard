@@ -24,6 +24,7 @@ LEFT JOIN dbo.market_segment ms ON v.market_segment = ms.market_segment
 LEFT JOIN dbo.meal_cost mc ON v.meal = mc.meal
 
 
+
 -- Scratch works
 SELECT * FROM vwhotels
 SELECT * FROM dbo.market_segment
